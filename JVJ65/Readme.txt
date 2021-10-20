@@ -6,3 +6,4 @@ Contents of this folder:
 4) Win7 and Win10 are the samples (the raw data).
 5) JVJ65_Analysis. A notebook to do the analysis.
 
+For confidentiality reasons, data is not shown in this repo.
